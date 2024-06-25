@@ -333,7 +333,7 @@ button{
 
     #sub_s{margin-top: 113px;}
 
-    #container{width: 100% !important ; margin: 0 auto;
+    #container{width: 100%; margin: 0 auto;
     padding-left: 50px;}
     #container>#content{width: 100%; margin: 0 auto;}
     #container>#content>.con{width: 100%;}
@@ -402,5 +402,10 @@ button{
     #container{padding-left: 24px;}
     .apart p{font-size: 14px;}
     .apart img{display: block;width: 33%;margin: 0 auto;}
+    #top{
+        width: 40px;height: 40px;
+        font-size: 13px;
+        right: 15px; bottom: 42px;
+    }
 }
     
